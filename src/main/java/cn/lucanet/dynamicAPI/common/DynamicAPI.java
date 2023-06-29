@@ -6,6 +6,9 @@ public interface DynamicAPI extends Serializable {
 
     String getName();
 
+
+    //测试
+
     String getSQL();
 
     APITypeEnum getType();
